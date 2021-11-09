@@ -1,0 +1,10 @@
+* {
+  background-color: #478;
+  color: hotpink;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+}
+.img {
+  height: auto;
+  width: 450px;
+}
